@@ -1,4 +1,4 @@
-# Modern Ethio-Eri Syllabary
+# Modern Ethio-Eri Geʾez Syllabary
 
 The syllabary of Ethiopic letters in active use by modern languages.
 
@@ -45,7 +45,7 @@ The syllabary of Ethiopic letters in active use by modern languages.
 **Note** phonetic assignments will change depending on a specific language, and a superset of the unique phonemes are shown here.  Not every languge will use every letter or every sound. 
 
 
-# Legacy Ethio-Eri Syllabary
+# Legacy Ethio-Eri Geʾez Syllabary
 
 The syllabary of Ethiopic letters no longer in active use by modern languages.
 

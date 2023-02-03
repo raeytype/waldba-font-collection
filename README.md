@@ -1,6 +1,6 @@
 # The Waldba Font Collection
 
-The goal of the Waldba project is to help preserve the *digital typography heritage* of Ge'ez (Ethiopic) script.
+The goal of the Waldba project is to help preserve the *digital typography heritage* of Geʾez (Ethiopic) script.
 Preservation is accomplished by migrating computer fonts, primarily outline fonts, to OpenType format under Unicode
 encoding.  The computer fonts to preserve, in turn, are those that are no longer actively maintained by their creators.
 Where the creator may have moved on to other projects, might be a company that has been defunct for decades, or an
@@ -50,7 +50,7 @@ The collection presently includes the following typefaces from the WashRa collec
 <img src="images/Waldba-Wookianos.png"/>
 
 ### ዋልድባ - ፋንትዋ
-*Ethiopic Fantuwua → ዋልድባ - ፋንትዋ* and may be transcribed as "Waldba - Fantuwua".  "Fantuwua" translates to "???" and is a serif typeface style featuring flat stroke ends and single winged serifs.
+*Ethiopic Fantuwua → ዋልድባ - ፋንትዋ* and may be transcribed as "Waldba - Fantuwua".  "Fantuwua" is a serif typeface style featuring flat stroke ends and single winged serifs.
 <img src="images/Waldba-Fantuwua.png"/>
 
 ### ዋልድባ - ጥንት
@@ -70,7 +70,7 @@ The collection presently includes the following typefaces from the WashRa collec
 ## Status
 
 Work on meeting full Unicode standard compliance is prioritized around completing first the letters and symbols in current use. The letters in current, modern use by the languages of
-Eritrea and Ethiopia are given in this table for the [Modern Ethiopic Syllabary](ModernSyllabary.md) 
+Eritrea and Ethiopia are given in this table for the [Modern Geʾez Syllabary](ModernSyllabary.md) 
 
 **Missing Symbols by Range:**
 
