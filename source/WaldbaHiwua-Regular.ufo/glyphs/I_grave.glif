@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igrave" format="2">
+  <advance width="600"/>
+  <unicode hex="00CC"/>
+  <outline>
+    <contour>
+      <point x="500" y="516" type="line"/>
+      <point x="325" y="516" type="line"/>
+      <point x="325" y="47" type="line"/>
+      <point x="500" y="47" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="47" type="line"/>
+      <point x="275" y="47" type="line"/>
+      <point x="275" y="516" type="line"/>
+      <point x="100" y="516" type="line"/>
+      <point x="100" y="563" type="line"/>
+      <point x="500" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="374" y="636" type="line"/>
+      <point x="322" y="636" type="line"/>
+      <point x="190" y="751" type="line"/>
+      <point x="297" y="751" type="line"/>
+    </contour>
+  </outline>
+</glyph>

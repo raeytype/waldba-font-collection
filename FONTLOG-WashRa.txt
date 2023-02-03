@@ -1,0 +1,57 @@
+FONTLOG
+
+WashRa font family
++------------------------------+
+
+This file provides detailed information on the WashRa fonts. This information 
+should be distributed along with the WashRa fonts and any derivative works.
+
+Basic Font Information
++------------------------------+
+Ethiopic WashRa SemiBold: Latin-1, Ethiopic
+Ethiopic WashRa Bold: Latin-1, Ethiopic
+Ethiopia Jiret: Latin-1, Ethiopic
+Ethiopic Zelan: Latin-1, Ethiopic
+Ethiopic Hiwua: Latin-1, Ethiopic
+Ethiopic Wookianos: Latin-1, Ethiopic
+Ethiopic Fantuwua: Latin-1, Ethiopic
+Ethiopic Tint: Latin-1, Ethiopic
+Ethiopic Yebse: Latin-1, Ethiopic
+Ethiopic Yigezu Bisrat Goffer: Latin-1, Ethiopic
+Ethiopic Yigezu Bisrat Gothic: Latin-1, Ethiopic
+
+
+ChangeLog
++-------------------------------+
+[This should list both major and minor changes, most recent first.]
+
+-- 10 July 2008 WashRa fonts 4.1. This is the first release under the SIL Open 
+   Font License
+
+
+
+Information for Contributors
++------------------------------+
+The work is released under OFL license, which provides flexible latitude for those 
+who are interested in the work. Please read the OFL license and OFL-FAQ for detail.
+
+
+Acknowledgements
++------------------------------+
+[Here is where contributors can be acknowledged. If you make modifications
+be sure to add your name (N), email (E), web-address (W) and description
+(D). This list is sorted by last name in alphabetical order.]
+
+-  The Latin-1 portion of the glyph are inherited from fonts that were released
+   as public domain. 
+   
+-  The font design for Ethiopic Yigezu Bisrat family is based on the work of 
+   Ato Yigezu Bisrat: http://www.yigezubisrat.com.   
+
+
+The WashRa fonts project is maintained by Senamirmir Project.
+
+For more information, please visit the Senamirmir Project:
+http://www.senamirmir.org
+
+Or send an email to <contact AT senamirmir DOT org>

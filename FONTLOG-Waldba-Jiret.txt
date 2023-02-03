@@ -1,0 +1,101 @@
+FONTLOG
+
+ዋልድባ - ጅረት / Waldba - Jiret font family
+=======================================
+The Waldba - Jiret typeface is derived directly from the WashRa Ethiopia
+Jiret typeface with changes made to glyphs to support the Gurage orthography
+developed by Dr. Fekede Menuta and Wolkite University.
+
+Glyph changes and additions made to support the new orthography are the following:
+
+
+Ethiopic Basic Range (Unicode 3.0)
+-----------------------------------
+U+1217: Applied the diacritic mark from U+1227.
+
+U+1318: Macron joined to body.
+U+1319: Macron joined to body.
+U+131A: Macron joined to body.
+U+131B: Macron joined to body.
+U+131C: Macron joined to body.
+U+131D: Macron joined to body.
+U+131E: Macron joined to body.
+U+131F: Added. (Unicode 4.1)
+U+1357: Change to straight leg form based on U+1350.
+U+1360: Added. (Unicode 4.1)
+U+1367: Change glyphs to square shapes from U+1361.
+U+1368: Change glyphs to square shapes from U+1361.
+
+
+Ethiopic Supplement Range (Unicode 4.1)
+---------------------------------------
+U+1380: Added. The diacritic symbol from U+1310 is added to U+1218.
+U+1383: Added. The diacritic symbol from U+12B0 is added to U+121D.
+
+U+1384: Added. The diacritic symbol from U+12B0 is added to U+1260.
+U+1387: Added. The diacritic symbol from U+12B0 is added to U+1265.
+
+U+1388: Added. The diacritic symbol from U+12B0 is added to U+1348.
+U+138B: Added. The diacritic symbol from U+12B0 is added to U+134D.
+
+U+138C: Added. The diacritic symbol from U+12B0 is added to U+1350.
+U+138F: Added. The diacritic symbol from U+12B0 is added to U+1355.
+
+U+1390: Added.
+U+1391: Added.
+U+1392: Added.
+U+1393: Added.
+U+1394: Added.
+U+1395: Added.
+U+1396: Added.
+U+1397: Added.
+U+1398: Added.
+U+1399: Added.
+
+
+Ethiopic Extended Range (Unicode 4.1):
+-------------------------------------
+U+2D93: Added. The macron symbol from U+1318 is added to U+1310.
+U+2D94: Added. The macron symbol from U+1318 is added to U+1312.
+U+2D95: Added. The macron symbol from U+1318 is added to U+1314.
+U+2D96: Added. The macron symbol from U+1318 is added to U+1315.
+
+
+Ethiopic Extended-B Range (Unicode 13):
+---------------------------------------
+U+1E7EO: The macron symbol from U+1278 is added to U+1210.
+U+1E7E1: The macron symbol from U+1278 is added to U+1211.
+U+1E7E2: The macron symbol from U+1278 is added to U+1212.
+U+1E7E3: The macron symbol from U+1278 is added to U+1213.
+U+1E7E4: The macron symbol from U+1278 is added to U+1214.
+U+1E7E5: The macron symbol from U+1278 is added to U+1215.
+U+1E7E6: The macron symbol from U+1278 is added to U+1216.
+
+U+1E7E8: Added. The diacritic symbol from U+12B0 is added to U+1210.
+U+1E7E9: Added. The diacritic symbol from U+12B0 is added to U+1212.
+U+1E7EA: Added. The diacritic symbol from U+12B0 is added to U+1214.
+U+1E7EB: Added. The diacritic symbol from U+12B0 is added to U+1215.
+
+U+1E7ED: Added. The diacritic symbol from U+1310 is added to U+121A.
+U+1E7EE: Added. The diacritic symbol from U+1310 is added to U+121C.
+
+U+1E7F0: The diacritic symbol from U+132C is added to U+1242.
+U+1E7F1: The diacritic symbol from U+132C is added to U+1244.
+U+1E7F2: The diacritic symbol from U+132C is added to U+1245.
+
+U+1E7F3: Added. The diacritic symbol from U+1384 is added to U+1262.
+U+1E7F4: Added. The diacritic symbol from U+1384 is added to U+1264.
+
+U+1E7F5: The diacritic symbol from U+12B0 is added to U+12AA.
+U+1E7F6: The diacritic symbol from U+12B0 is added to U+12AC.
+U+1E7F7: The diacritic symbol from U+12B0 is added to U+12AD.
+
+U+1E7F8: The diacritic symbol from U+1310 is added to U+130A.
+U+1E7F9: The diacritic symbol from U+1310 is added to U+130C.
+U+1E7FA: The diacritic symbol from U+1310 is added to U+130D.
+
+U+1E7FB: Added. The diacritic symbol from U+1388 is added to U+134A.
+U+1E7FC: Added. The diacritic symbol from U+1388 is added to U+134C.
+
+U+1E7FD: Added. The diacritic symbol from U+138C is added to U+1352.
+U+1E7FE: Added. The diacritic symbol from U+138C is added to U+1354.

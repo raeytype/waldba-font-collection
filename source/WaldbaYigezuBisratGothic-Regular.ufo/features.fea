@@ -1,0 +1,19 @@
+languagesystem latn dflt;
+
+
+
+
+
+
+feature kern { # Kerning
+ script latn; # Latin
+lookup kern0 {
+    pos S H -2;
+} kern0;
+} kern;
+
+
+
+
+
+
