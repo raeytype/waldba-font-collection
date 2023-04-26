@@ -21,7 +21,7 @@ The "Zelan" typeface was originally created by the Senamirmir Project and distri
 
 ## Goals
 The goal of this project is to extend the fonts with the Ethiopic letters that have been added to the Unicode Standard since the release of the original collection.  
-continuation of Zelan since its last update by the Senamirmir Project in 2008 in the WashRa 4.1 release. 
+
 Under this goal, the primary focus of the project is to add the letters needed to support the writing practices of living languages that use the Ethiopic (Geʾez) script such at Blin and Gurage.
 
 
@@ -67,6 +67,13 @@ The collection presently includes the following typefaces from the WashRa collec
 "Yigezu Bisrat Goffer" is named after the reknowned artist, Yigezu Bisrat, and Goffer (transcribed in Amharic as "ጎፈር") is the English word meaning to press pleats, ridges or other wavy designs with an iron into fabric.
 <img src="images/Waldba-YigezuBisratGoffer.png"/>
 
+### Brana
+TBD...
+
+### GeezFree Zemen
+
+TBD...
+
 ## Status
 
 Work on meeting full Unicode standard compliance is prioritized around completing first the letters and symbols in current use. The letters in current, modern use by the languages of
@@ -74,14 +81,16 @@ Eritrea and Ethiopia are given in this table for the [Modern Geʾez Syllabary](M
 
 **Missing Symbols by Range:**
 
-|                       |  Basic |Supplement| Extended |Extended-A|Extended-B|
-|:---------------------:|:------:|:--------:|:--------:|:--------:|:--------:|
-|ዋልድባ - ዘላን                           |    13  |    26    |    75    |    32    |    28    |
-|ዋልድባ - ህዋእ                          |    13  |    26    |    79    |    32    |    28    |
-|ዋልድባ - የብሰ                           |    13  |    26    |    75    |    32    |    28    |
-|ዋልድባ - ጅረት                           |    12  |     8    |    75    |    32    |     0    |
-|ዋልድባ - ውቂያኖስ                    |    12  |    18    |    75    |    32    |     0    |
-|ዋልድባ - ፋንትዋ                       |    12  |    18    |    79    |    32    |     0    |
-|ዋልድባ - ጥንት           |    15  |    26    |    75    |    32    |    28    |
-|ዋልድባ - ይገዙ ብሥራት ጎቲክ|    13  |    26    |    79    |    32    |    28    |
-|ዋልድባ - ይገዙ ብሥራት ጎፈር|    13  |    26    |    75    |    32    |    28    |
+|                        |  Basic |Supplement| Extended |Extended-A|Extended-B|Total|
+|:----------------------:|:------:|:--------:|:--------:|:--------:|:--------:|:---:|
+|ዋልድባ - ዘላን            |    13  |    26    |    75    |    32    |    28    | 174 |
+|ዋልድባ - ህዋእ            |    13  |    26    |    79    |    32    |    28    | 178 |
+|ዋልድባ - የብሰ            |    13  |    26    |    75    |    32    |    28    | 174 |
+|ዋልድባ - ጅረት            |    12  |     8    |    75    |    32    |     0    | 127 |
+|ዋልድባ - ውቂያኖስ         |    12  |    18    |    75    |    32    |     0    | 137 |
+|ዋልድባ - ፋንትዋ          |    12  |    18    |    79    |    32    |     0    | 141 |
+|ዋልድባ - ጥንት           |    15  |    26    |    75    |    32    |    28    | 176 |
+|ዋልድባ - ይገዙ ብሥራት ጎቲክ|    13  |    26    |    79    |    32    |    28    | 178 |
+|ዋልድባ - ይገዙ ብሥራት ጎፈር|    13  |    26    |    75    |    32    |    28    | 174 |
+| Brana                  |   15  |    26    |    75    |    32    |    28    | 176 |
+| GeezFree Zemen         |   16  |    26    |    75    |    32    |    28    | 174 |
