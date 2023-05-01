@@ -376,6 +376,8 @@
   <string>scaron.glif</string>
   <key>section</key>
   <string>section.glif</string>
+  <key>sectionmark-ethi</key>
+  <string>sectionmark-ethi.glif</string>
   <key>semicolon</key>
   <string>semicolon.glif</string>
   <key>seven</key>

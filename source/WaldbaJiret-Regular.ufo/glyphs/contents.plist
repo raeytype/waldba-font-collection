@@ -242,6 +242,14 @@
   <string>g.glif</string>
   <key>germandbls</key>
   <string>germandbls.glif</string>
+  <key>ggwa-ethiopic</key>
+  <string>ggwa-ethiopic.glif</string>
+  <key>ggwe-ethiopic</key>
+  <string>ggwe-ethiopic.glif</string>
+  <key>ggwee-ethiopic</key>
+  <string>ggwee-ethiopic.glif</string>
+  <key>ggwi-ethiopic</key>
+  <string>ggwi-ethiopic.glif</string>
   <key>grave</key>
   <string>grave.glif</string>
   <key>greater</key>

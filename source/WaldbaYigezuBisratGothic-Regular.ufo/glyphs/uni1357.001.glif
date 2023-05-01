@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1357.001" format="2">
   <advance width="608"/>
+  <note>Stashed components from the original font.</note>
   <outline>
     <contour>
       <point x="189" y="25" type="line"/>

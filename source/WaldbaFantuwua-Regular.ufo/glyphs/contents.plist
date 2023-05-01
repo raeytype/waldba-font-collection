@@ -6,6 +6,16 @@
   <string>_notdef.glif</string>
   <key>NULL</key>
   <string>N_U_L_L_.glif</string>
+  <key>ggwa-ethiopic</key>
+  <string>ggwa-ethiopic.glif</string>
+  <key>ggwaa-ethi</key>
+  <string>ggwaa-ethi.glif</string>
+  <key>ggwe-ethiopic</key>
+  <string>ggwe-ethiopic.glif</string>
+  <key>ggwee-ethiopic</key>
+  <string>ggwee-ethiopic.glif</string>
+  <key>ggwi-ethiopic</key>
+  <string>ggwi-ethiopic.glif</string>
   <key>gwe-ethi</key>
   <string>gwe-ethi.glif</string>
   <key>gwee-ethi</key>

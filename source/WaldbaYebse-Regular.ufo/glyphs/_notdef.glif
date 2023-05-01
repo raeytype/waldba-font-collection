@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name=".notdef" format="2">
   <advance width="500"/>
+  <note>Stashed components from the original font.</note>
   <outline>
     <contour>
       <point x="403" y="-136" type="line"/>

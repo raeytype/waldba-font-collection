@@ -123,7 +123,7 @@
       <point x="611" y="38"/>
       <point x="602" y="26"/>
       <point x="591" y="15"/>
-      <point x="586" y="12" type="qcurve" smooth="yes"/>
+      <point x="586" y="12" type="qcurve"/>
       <point x="582" y="10"/>
       <point x="581" y="9" type="qcurve"/>
       <point x="581" y="-3" type="line"/>
@@ -180,7 +180,7 @@
       <point x="243" y="34"/>
       <point x="291" y="11"/>
       <point x="339" y="-15"/>
-      <point x="358" y="-25" type="qcurve" smooth="yes"/>
+      <point x="358" y="-25" type="qcurve"/>
       <point x="375" y="-35"/>
       <point x="376" y="-35" type="qcurve"/>
       <point x="380" y="-37"/>
@@ -188,7 +188,7 @@
       <point x="390" y="-37"/>
       <point x="390" y="-29" type="qcurve" smooth="yes"/>
       <point x="390" y="-25"/>
-      <point x="385" y="-20" type="qcurve" smooth="yes"/>
+      <point x="385" y="-20" type="qcurve"/>
       <point x="377" y="-11"/>
       <point x="361" y="20"/>
       <point x="361" y="24" type="qcurve"/>
@@ -213,7 +213,7 @@
       <point x="601" y="651"/>
       <point x="592" y="639"/>
       <point x="581" y="628"/>
-      <point x="576" y="625" type="qcurve" smooth="yes"/>
+      <point x="576" y="625" type="qcurve"/>
       <point x="572" y="623"/>
       <point x="571" y="622" type="qcurve"/>
       <point x="571" y="610" type="line"/>
@@ -270,7 +270,7 @@
       <point x="233" y="647"/>
       <point x="281" y="624"/>
       <point x="329" y="598"/>
-      <point x="348" y="588" type="qcurve" smooth="yes"/>
+      <point x="348" y="588" type="qcurve"/>
       <point x="365" y="578"/>
       <point x="366" y="578" type="qcurve"/>
       <point x="366" y="577" type="line"/>
@@ -281,7 +281,7 @@
       <point x="380" y="584" type="qcurve" smooth="yes"/>
       <point x="380" y="586"/>
       <point x="377" y="591"/>
-      <point x="375" y="593" type="qcurve" smooth="yes"/>
+      <point x="375" y="593" type="qcurve"/>
       <point x="367" y="602"/>
       <point x="351" y="633"/>
       <point x="351" y="637" type="qcurve"/>

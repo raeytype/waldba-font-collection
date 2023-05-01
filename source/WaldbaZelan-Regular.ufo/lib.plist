@@ -181,9 +181,6 @@
   </dict>
   <key>public.glyphOrder</key>
   <array>
-    <string>.notdef</string>
-    <string>NULL</string>
-    <string>CR</string>
     <string>space</string>
     <string>exclam</string>
     <string>quotedbl</string>
@@ -750,6 +747,7 @@
     <string>uni131F</string>
     <string>uni1337</string>
     <string>uni1357</string>
+    <string>sectionmark-ethi</string>
   </array>
 </dict>
 </plist>

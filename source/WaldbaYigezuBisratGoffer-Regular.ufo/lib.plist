@@ -19,9 +19,6 @@
   </dict>
   <key>public.glyphOrder</key>
   <array>
-    <string>.notdef</string>
-    <string>NULL</string>
-    <string>CR</string>
     <string>space</string>
     <string>exclam</string>
     <string>quotedbl</string>
@@ -582,6 +579,12 @@
     <string>guilsinglleft</string>
     <string>guilsinglright</string>
     <string>trademark</string>
+    <string>ggwaa-ethi</string>
+    <string>sectionmark-ethi</string>
+    <string>ggwa-ethiopic</string>
+    <string>ggwi-ethiopic</string>
+    <string>ggwee-ethiopic</string>
+    <string>ggwe-ethiopic</string>
   </array>
 </dict>
 </plist>

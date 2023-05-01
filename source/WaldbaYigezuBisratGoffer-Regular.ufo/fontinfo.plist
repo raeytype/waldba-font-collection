@@ -26,6 +26,16 @@ Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Res
     <key>y</key>
     <integer>250</integer>
   </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>250</integer>
+  </dict>
   </array>
   <key>italicAngle</key>
   <integer>0</integer>
@@ -131,8 +141,6 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <string>ዋልድባ - ይገዙ ብሥራት ጎፈር</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
-  <key>openTypeNameSampleText</key>
-  <string>በስመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡፩ዱ፡አምላክ።</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.000</string>
   <key>openTypeOS2CodePageRanges</key>

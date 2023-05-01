@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="FL130" format="2">
   <advance width="500"/>
+  <note>Stashed components from the original font.</note>
   <outline>
     <contour>
       <point x="391" y="425" type="line"/>

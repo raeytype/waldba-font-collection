@@ -137,9 +137,6 @@
   </dict>
   <key>public.glyphOrder</key>
   <array>
-    <string>.notdef</string>
-    <string>NULL</string>
-    <string>CR</string>
     <string>FL20</string>
     <string>space</string>
     <string>exclam</string>
@@ -593,12 +590,6 @@
     <string>uni1314</string>
     <string>uni1315</string>
     <string>uni1318</string>
-    <string>Uni1319.001</string>
-    <string>Uni131A.001</string>
-    <string>Uni131B.001</string>
-    <string>Uni131C.001</string>
-    <string>Uni131D.001</string>
-    <string>Uni131E.001</string>
     <string>uni1320</string>
     <string>uni1321</string>
     <string>uni1322</string>
@@ -700,13 +691,11 @@
     <string>guilsinglright</string>
     <string>trademark</string>
     <string>uni1319</string>
-    <string>Uni131A.002</string>
     <string>uni131B</string>
     <string>uni131C</string>
     <string>uni131D</string>
     <string>uni131E</string>
     <string>uni2D93</string>
-    <string>Uni131A.003</string>
     <string>uni131A</string>
     <string>uni2D95</string>
     <string>uni2D96</string>
@@ -715,6 +704,7 @@
     <string>uni1357</string>
     <string>uni1337</string>
     <string>uni131F</string>
+    <string>sectionmark-ethi</string>
   </array>
 </dict>
 </plist>

@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>.notdef</key>
-  <string>_notdef.glif</string>
   <key>A</key>
   <string>A_.glif</string>
   <key>AE</key>
@@ -24,8 +22,6 @@
   <string>B_.glif</string>
   <key>C</key>
   <string>C_.glif</string>
-  <key>CR</key>
-  <string>C_R_.glif</string>
   <key>Ccedilla</key>
   <string>C_cedilla.glif</string>
   <key>D</key>
@@ -68,8 +64,6 @@
   <string>M_.glif</string>
   <key>N</key>
   <string>N_.glif</string>
-  <key>NULL</key>
-  <string>N_U_L_L_.glif</string>
   <key>Ntilde</key>
   <string>N_tilde.glif</string>
   <key>O</key>
@@ -376,6 +370,8 @@
   <string>scaron.glif</string>
   <key>section</key>
   <string>section.glif</string>
+  <key>sectionmark-ethi</key>
+  <string>sectionmark-ethi.glif</string>
   <key>semicolon</key>
   <string>semicolon.glif</string>
   <key>seven</key>

@@ -22,7 +22,7 @@
       <point x="576" y="666"/>
       <point x="567" y="654"/>
       <point x="556" y="643"/>
-      <point x="551" y="640" type="qcurve" smooth="yes"/>
+      <point x="551" y="640" type="qcurve"/>
       <point x="547" y="638"/>
       <point x="546" y="637" type="qcurve"/>
       <point x="546" y="625" type="line"/>
@@ -196,7 +196,7 @@
       <point x="478" y="0" type="qcurve" smooth="yes"/>
       <point x="497" y="0"/>
       <point x="538" y="31"/>
-      <point x="549" y="53" type="qcurve" smooth="yes"/>
+      <point x="549" y="53" type="qcurve"/>
       <point x="554" y="64"/>
       <point x="561" y="96"/>
       <point x="561" y="107" type="qcurve" smooth="yes"/>
@@ -256,7 +256,7 @@
       <point x="358" y="599" type="qcurve" smooth="yes"/>
       <point x="358" y="601"/>
       <point x="355" y="606"/>
-      <point x="353" y="608" type="qcurve" smooth="yes"/>
+      <point x="353" y="608" type="qcurve"/>
       <point x="345" y="617"/>
       <point x="329" y="648"/>
       <point x="329" y="652" type="qcurve"/>
