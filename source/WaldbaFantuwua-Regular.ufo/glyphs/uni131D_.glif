@@ -36,24 +36,24 @@
       <point x="254.171" y="1291.52"/>
       <point x="334.762" y="1291.52" type="qcurve" smooth="yes"/>
       <point x="407.087" y="1291.52" type="line"/>
-      <point x="407.087" y="1384.51" type="line"/>
-      <point x="123.986" y="1384.51" type="line"/>
-      <point x="123.986" y="1628.35" type="line"/>
-      <point x="216.975" y="1628.35" type="line"/>
-      <point x="216.975" y="1609.75"/>
-      <point x="231.44" y="1541.56"/>
-      <point x="270.703" y="1475.43"/>
-      <point x="338.895" y="1427.9"/>
-      <point x="394.689" y="1427.9" type="qcurve" smooth="yes"/>
-      <point x="692.255" y="1427.9" type="line" smooth="yes"/>
-      <point x="748.048" y="1427.9"/>
-      <point x="816.241" y="1475.43"/>
-      <point x="855.503" y="1541.56"/>
-      <point x="869.968" y="1609.75"/>
-      <point x="869.968" y="1628.35" type="qcurve"/>
-      <point x="960.891" y="1628.35" type="line"/>
-      <point x="960.891" y="1384.51" type="line"/>
-      <point x="675.723" y="1384.51" type="line"/>
+      <point x="407.087" y="1411.51" type="line"/>
+      <point x="123.986" y="1411.51" type="line"/>
+      <point x="123.986" y="1655.35" type="line"/>
+      <point x="216.975" y="1655.35" type="line"/>
+      <point x="216.975" y="1636.75"/>
+      <point x="231.44" y="1568.56"/>
+      <point x="270.703" y="1502.43"/>
+      <point x="338.895" y="1454.9"/>
+      <point x="394.689" y="1454.9" type="qcurve" smooth="yes"/>
+      <point x="692.255" y="1454.9" type="line" smooth="yes"/>
+      <point x="748.048" y="1454.9"/>
+      <point x="816.241" y="1502.43"/>
+      <point x="855.503" y="1568.56"/>
+      <point x="869.968" y="1636.75"/>
+      <point x="869.968" y="1655.35" type="qcurve"/>
+      <point x="960.891" y="1655.35" type="line"/>
+      <point x="960.891" y="1411.51" type="line"/>
+      <point x="675.723" y="1411.51" type="line"/>
       <point x="675.372" y="1291.52" type="line"/>
       <point x="729.45" y="1291.52" type="line" smooth="yes"/>
       <point x="765.628" y="1291.52"/>

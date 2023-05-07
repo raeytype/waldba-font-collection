@@ -31,24 +31,24 @@
       <point x="673.659" y="1293.53"/>
       <point x="639.561" y="1292.55" type="qcurve" smooth="yes"/>
       <point x="619.591" y="1291.98" type="line"/>
-      <point x="619.93" y="1386.58" type="line"/>
-      <point x="905.097" y="1386.58" type="line"/>
-      <point x="905.097" y="1630.41" type="line"/>
-      <point x="814.174" y="1630.41" type="line"/>
-      <point x="814.174" y="1611.82"/>
-      <point x="799.709" y="1543.62"/>
-      <point x="760.447" y="1477.5"/>
-      <point x="692.255" y="1429.97"/>
-      <point x="636.461" y="1429.97" type="qcurve" smooth="yes"/>
-      <point x="338.895" y="1429.97" type="line" smooth="yes"/>
-      <point x="283.101" y="1429.97"/>
-      <point x="214.909" y="1477.5"/>
-      <point x="175.647" y="1543.62"/>
-      <point x="161.182" y="1611.82"/>
-      <point x="161.182" y="1630.41" type="qcurve"/>
-      <point x="68.1923" y="1630.41" type="line"/>
-      <point x="68.1923" y="1386.58" type="line"/>
-      <point x="351.293" y="1386.58" type="line"/>
+      <point x="619.93" y="1413.58" type="line"/>
+      <point x="905.097" y="1413.58" type="line"/>
+      <point x="905.097" y="1657.41" type="line"/>
+      <point x="814.174" y="1657.41" type="line"/>
+      <point x="814.174" y="1638.82"/>
+      <point x="799.709" y="1570.62"/>
+      <point x="760.447" y="1504.5"/>
+      <point x="692.255" y="1456.97"/>
+      <point x="636.461" y="1456.97" type="qcurve" smooth="yes"/>
+      <point x="338.895" y="1456.97" type="line" smooth="yes"/>
+      <point x="283.101" y="1456.97"/>
+      <point x="214.909" y="1504.5"/>
+      <point x="175.647" y="1570.62"/>
+      <point x="161.182" y="1638.82"/>
+      <point x="161.182" y="1657.41" type="qcurve"/>
+      <point x="68.1923" y="1657.41" type="line"/>
+      <point x="68.1923" y="1413.58" type="line"/>
+      <point x="351.293" y="1413.58" type="line"/>
       <point x="351.293" y="1291.52" type="line"/>
       <point x="82.6573" y="1291.52" type="line"/>
       <point x="82.6573" y="1002.22" type="line"/>

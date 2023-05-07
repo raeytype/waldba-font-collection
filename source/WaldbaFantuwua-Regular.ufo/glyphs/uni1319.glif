@@ -20,24 +20,24 @@
       <point x="92.9894" y="1002.22" type="line"/>
       <point x="92.9894" y="1291.52" type="line"/>
       <point x="361.626" y="1291.52" type="line"/>
-      <point x="361.626" y="1386.58" type="line"/>
-      <point x="78.5244" y="1386.58" type="line"/>
-      <point x="78.5244" y="1630.41" type="line"/>
-      <point x="171.514" y="1630.41" type="line"/>
-      <point x="171.514" y="1611.82"/>
-      <point x="185.979" y="1543.62"/>
-      <point x="225.241" y="1477.5"/>
-      <point x="293.433" y="1429.97"/>
-      <point x="349.227" y="1429.97" type="qcurve" smooth="yes"/>
-      <point x="646.793" y="1429.97" type="line" smooth="yes"/>
-      <point x="702.587" y="1429.97"/>
-      <point x="770.779" y="1477.5"/>
-      <point x="810.041" y="1543.62"/>
-      <point x="824.506" y="1611.82"/>
-      <point x="824.506" y="1630.41" type="qcurve"/>
-      <point x="915.429" y="1630.41" type="line"/>
-      <point x="915.429" y="1386.58" type="line"/>
-      <point x="630.262" y="1386.58" type="line"/>
+      <point x="361.626" y="1413.58" type="line"/>
+      <point x="78.5244" y="1413.58" type="line"/>
+      <point x="78.5244" y="1657.41" type="line"/>
+      <point x="171.514" y="1657.41" type="line"/>
+      <point x="171.514" y="1638.82"/>
+      <point x="185.979" y="1570.62"/>
+      <point x="225.241" y="1504.5"/>
+      <point x="293.433" y="1456.97"/>
+      <point x="349.227" y="1456.97" type="qcurve" smooth="yes"/>
+      <point x="646.793" y="1456.97" type="line" smooth="yes"/>
+      <point x="702.587" y="1456.97"/>
+      <point x="770.779" y="1504.5"/>
+      <point x="810.041" y="1570.62"/>
+      <point x="824.506" y="1638.82"/>
+      <point x="824.506" y="1657.41" type="qcurve"/>
+      <point x="915.429" y="1657.41" type="line"/>
+      <point x="915.429" y="1413.58" type="line"/>
+      <point x="630.262" y="1413.58" type="line"/>
       <point x="630.262" y="1291.52" type="line"/>
       <point x="651.959" y="1292.55" type="line" smooth="yes"/>
       <point x="694.821" y="1294.59"/>

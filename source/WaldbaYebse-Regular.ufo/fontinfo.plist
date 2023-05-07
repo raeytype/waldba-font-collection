@@ -94,6 +94,16 @@ Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Res
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
+    <integer>512</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
     <integer>614</integer>
   </dict>
   </array>
@@ -119,11 +129,11 @@ Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Res
   <array>
   </array>
   <key>openTypeHheaAscender</key>
-  <integer>1686</integer>
+  <integer>2034</integer>
   <key>openTypeHheaCaretOffset</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-377</integer>
+  <integer>-682</integer>
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
   <key>openTypeNameDescription</key>
@@ -231,19 +241,19 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <key>openTypeOS2SubscriptXOffset</key>
   <integer>-0</integer>
   <key>openTypeOS2SubscriptXSize</key>
-  <integer>1024</integer>
+  <integer>1434</integer>
   <key>openTypeOS2SubscriptYOffset</key>
-  <integer>-1024</integer>
+  <integer>287</integer>
   <key>openTypeOS2SubscriptYSize</key>
-  <integer>1024</integer>
+  <integer>1331</integer>
   <key>openTypeOS2SuperscriptXOffset</key>
   <integer>-0</integer>
   <key>openTypeOS2SuperscriptXSize</key>
-  <integer>1024</integer>
+  <integer>1434</integer>
   <key>openTypeOS2SuperscriptYOffset</key>
-  <integer>512</integer>
+  <integer>977</integer>
   <key>openTypeOS2SuperscriptYSize</key>
-  <integer>1024</integer>
+  <integer>1331</integer>
   <key>openTypeOS2Type</key>
   <array>
   </array>
