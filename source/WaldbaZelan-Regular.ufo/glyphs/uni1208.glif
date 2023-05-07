@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1208" format="2">
-  <advance width="486"/>
+  <advance width="970"/>
   <unicode hex="1208"/>
   <outline>
     <contour>
-      <point x="95" y="649" type="qcurve"/>
-      <point x="60" y="649"/>
-      <point x="38" y="626"/>
-      <point x="38" y="603" type="qcurve"/>
-      <point x="38" y="29" type="line"/>
-      <point x="38" y="6"/>
-      <point x="60" y="-17"/>
-      <point x="95" y="-17" type="qcurve"/>
-      <point x="128" y="-17"/>
-      <point x="148" y="6"/>
-      <point x="148" y="29" type="qcurve"/>
-      <point x="148" y="345" type="line"/>
-      <point x="151" y="354"/>
-      <point x="170" y="387"/>
-      <point x="197" y="419"/>
-      <point x="230" y="443"/>
-      <point x="248" y="443" type="qcurve"/>
-      <point x="287" y="443"/>
-      <point x="323" y="384"/>
-      <point x="323" y="315" type="qcurve"/>
-      <point x="323" y="29" type="line"/>
-      <point x="323" y="6"/>
-      <point x="345" y="-17"/>
-      <point x="380" y="-17" type="qcurve"/>
-      <point x="413" y="-17"/>
-      <point x="433" y="6"/>
-      <point x="433" y="29" type="qcurve"/>
-      <point x="433" y="300" type="line"/>
-      <point x="433" y="357"/>
-      <point x="408" y="424"/>
-      <point x="363" y="459"/>
-      <point x="302" y="468"/>
-      <point x="265" y="468" type="qcurve"/>
-      <point x="244" y="468"/>
-      <point x="205" y="449"/>
-      <point x="173" y="421"/>
-      <point x="151" y="389"/>
-      <point x="148" y="376" type="qcurve"/>
-      <point x="148" y="603" type="line"/>
-      <point x="148" y="626"/>
-      <point x="128" y="649"/>
+      <point x="190" y="1296" type="qcurve"/>
+      <point x="120" y="1296"/>
+      <point x="76" y="1250"/>
+      <point x="76" y="1204" type="qcurve"/>
+      <point x="76" y="58" type="line"/>
+      <point x="76" y="12"/>
+      <point x="120" y="-34"/>
+      <point x="190" y="-34" type="qcurve"/>
+      <point x="256" y="-34"/>
+      <point x="295" y="12"/>
+      <point x="295" y="58" type="qcurve"/>
+      <point x="295" y="689" type="line"/>
+      <point x="301" y="707"/>
+      <point x="339" y="773"/>
+      <point x="393" y="837"/>
+      <point x="459" y="885"/>
+      <point x="495" y="885" type="qcurve"/>
+      <point x="573" y="885"/>
+      <point x="646" y="767"/>
+      <point x="646" y="629" type="qcurve"/>
+      <point x="646" y="58" type="line"/>
+      <point x="646" y="12"/>
+      <point x="689" y="-34"/>
+      <point x="759" y="-34" type="qcurve"/>
+      <point x="825" y="-34"/>
+      <point x="865" y="12"/>
+      <point x="865" y="58" type="qcurve"/>
+      <point x="865" y="599" type="line"/>
+      <point x="865" y="713"/>
+      <point x="815" y="846"/>
+      <point x="725" y="917"/>
+      <point x="603" y="934"/>
+      <point x="530" y="934" type="qcurve"/>
+      <point x="488" y="934"/>
+      <point x="410" y="897"/>
+      <point x="345" y="841"/>
+      <point x="301" y="777"/>
+      <point x="295" y="751" type="qcurve"/>
+      <point x="295" y="1204" type="line"/>
+      <point x="295" y="1250"/>
+      <point x="256" y="1296"/>
     </contour>
   </outline>
 </glyph>

@@ -11,14 +11,14 @@
         <key>position</key>
         <integer>0</integer>
         <key>width</key>
-        <integer>16</integer>
+        <integer>33</integer>
         <key>top</key>
         <false/>
       </dict>
       <key>b: 1</key>
       <dict>
         <key>position</key>
-        <integer>-152</integer>
+        <integer>-311</integer>
         <key>width</key>
         <integer>0</integer>
         <key>top</key>
@@ -27,18 +27,18 @@
       <key>t: 0</key>
       <dict>
         <key>position</key>
-        <integer>453</integer>
+        <integer>928</integer>
         <key>width</key>
-        <integer>21</integer>
+        <integer>43</integer>
         <key>top</key>
         <true/>
       </dict>
       <key>t: 1</key>
       <dict>
         <key>position</key>
-        <integer>583</integer>
+        <integer>1194</integer>
         <key>width</key>
-        <integer>17</integer>
+        <integer>35</integer>
         <key>top</key>
         <true/>
       </dict>
@@ -48,7 +48,7 @@
       <key>Y: 50</key>
       <dict>
         <key>width</key>
-        <integer>50</integer>
+        <integer>102</integer>
         <key>horizontal</key>
         <true/>
         <key>round</key>
@@ -70,7 +70,7 @@
       <key>Y: 82</key>
       <dict>
         <key>width</key>
-        <integer>82</integer>
+        <integer>168</integer>
         <key>horizontal</key>
         <true/>
         <key>round</key>
@@ -92,7 +92,7 @@
       <key>Y: 86</key>
       <dict>
         <key>width</key>
-        <integer>86</integer>
+        <integer>176</integer>
         <key>horizontal</key>
         <true/>
         <key>round</key>
@@ -114,7 +114,7 @@
       <key>Y: 125</key>
       <dict>
         <key>width</key>
-        <integer>125</integer>
+        <integer>256</integer>
         <key>horizontal</key>
         <true/>
         <key>round</key>
@@ -136,7 +136,7 @@
       <key>Y: 150</key>
       <dict>
         <key>width</key>
-        <integer>150</integer>
+        <integer>307</integer>
         <key>horizontal</key>
         <true/>
         <key>round</key>
@@ -158,7 +158,7 @@
       <key>X: 150</key>
       <dict>
         <key>width</key>
-        <integer>150</integer>
+        <integer>307</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
@@ -180,7 +180,7 @@
       <key>X: 87</key>
       <dict>
         <key>width</key>
-        <integer>87</integer>
+        <integer>178</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
@@ -202,7 +202,7 @@
       <key>X: 110</key>
       <dict>
         <key>width</key>
-        <integer>110</integer>
+        <integer>225</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
@@ -224,7 +224,7 @@
       <key>X: 125</key>
       <dict>
         <key>width</key>
-        <integer>125</integer>
+        <integer>256</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
