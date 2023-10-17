@@ -12,7 +12,7 @@ with Reserved Font Names:
 "ዋልድባ - ዘላን", "ዋልድባ - ዘላን Regular", "Waldba - Zelan"  "Waldba - Zelan Regular"
 
 The fonts are derived directly from their namesake counterparts from the
-Senamirmir Project, which declares:
+Senamirmir Project's WashRa 4.1 collection, which declares:
 
 Copyright (c) 1998-2008, Senamirmir Project (http://www.senamirmir.org),
 
