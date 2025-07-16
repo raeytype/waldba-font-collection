@@ -1,3 +1,4 @@
+#!/usr/local/opt/python@3.11/bin/python3.11
 #
 # This script remvoes the duplicate name entries in Mac Roman encoding,
 # which appear to override the Unicode encoded names on OSX
@@ -18,9 +19,9 @@ if __name__ == "__main__":
         # Name ID: 
 	#   1 = Font Family Name
 	#   2 = Font Subfamily Name
-	#   4 = Full Name
-	#   5 = Version string
-	#   6 = PostScript name
+	#   4 = Full Font Name
+	#   5 = Version String
+	#   6 = PostScript Name
 
         font["name"].removeNames(1, 1, 0, 0)
         font["name"].removeNames(2, 1, 0, 0)
