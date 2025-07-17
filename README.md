@@ -10,17 +10,11 @@ The intial fonts in migrated under the Waldba project come from WashRa collectio
 
 
 **About the name:** just as the original font collection was named after the Washera Mariam monestary, this collection is named after reknowned another monetary of Ethiopian.
-[ዋልድባ /  Waldba](http://www.iueotcff.org/waldba/about) is situated in northern Ethiopia that has faced unprecedented challenges for its survival in in recent years.
-
-
-## Background
-The Educational Fontware company developed a collection of 14 fonts that illustrate the sequence and direction of written strokes needed to form the Geʾez letters. The collection was developed over a two year period and generously released in 2011 under the [Open Font License](OFL.txt) (OFL). The motivation behind developing the font collection was for use in Ethiopia and Eritrea elementary school education.  The collection was provided to the respective governments, however, the extent of their utilization is unknown.
-
-The "Zelan" typeface was originally created by the Senamirmir Project and distributed as part of the WashRa font collection.  The ዘላን font is a continuation of Zelan since its last update by the Senamirmir Project in 2008 in the WashRa 4.1 release. 
+[ዋልድባ / Waldba](http://www.iueotcff.org/waldba/about) is situated in northern Ethiopia that has faced unprecedented challenges for its survival in in recent years.
 
 
 ## Goals
-The goal of this project is to extend the fonts with the Ethiopic letters that have been added to the Unicode Standard since the release of the original collection.  
+The goal of this project is to extend the fonts with the Ethiopic letters that have been added to the Unicode Standard since the release of the original collection.
 
 Under this goal, the primary focus of the project is to add the letters needed to support the writing practices of living languages that use the Ethiopic (Geʾez) script such at Blin and Gurage.
 
@@ -73,6 +67,12 @@ TBD...
 ### GeezFree Zemen
 
 TBD...
+
+## Variants and Ligatures
+The Waldba collection will contain a the most common ligatures found in Geʾez manuscripts as well as bichromatic (red-black) variants glyphs.
+Samples:
+
+<img src="images/Waldba-Bichromatic-Comparison.png"/>
 
 ## Status
 
