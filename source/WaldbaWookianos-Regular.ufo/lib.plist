@@ -11,14 +11,14 @@
         <key>position</key>
         <integer>0</integer>
         <key>width</key>
-        <integer>17</integer>
+        <integer>35</integer>
         <key>top</key>
         <false/>
       </dict>
       <key>b: 1</key>
       <dict>
         <key>position</key>
-        <integer>-157</integer>
+        <integer>-322</integer>
         <key>width</key>
         <integer>0</integer>
         <key>top</key>
@@ -27,18 +27,18 @@
       <key>t: 0</key>
       <dict>
         <key>position</key>
-        <integer>430</integer>
+        <integer>881</integer>
         <key>width</key>
-        <integer>20</integer>
+        <integer>41</integer>
         <key>top</key>
         <true/>
       </dict>
       <key>t: 1</key>
       <dict>
         <key>position</key>
-        <integer>563</integer>
+        <integer>1153</integer>
         <key>width</key>
-        <integer>17</integer>
+        <integer>35</integer>
         <key>top</key>
         <true/>
       </dict>
@@ -48,7 +48,7 @@
       <key>Y: 47</key>
       <dict>
         <key>width</key>
-        <integer>47</integer>
+        <integer>96</integer>
         <key>horizontal</key>
         <true/>
         <key>round</key>
@@ -70,7 +70,7 @@
       <key>Y: 23</key>
       <dict>
         <key>width</key>
-        <integer>23</integer>
+        <integer>47</integer>
         <key>horizontal</key>
         <true/>
         <key>round</key>
@@ -92,7 +92,7 @@
       <key>Y: 79</key>
       <dict>
         <key>width</key>
-        <integer>79</integer>
+        <integer>162</integer>
         <key>horizontal</key>
         <true/>
         <key>round</key>
@@ -114,7 +114,7 @@
       <key>Y: 88</key>
       <dict>
         <key>width</key>
-        <integer>88</integer>
+        <integer>180</integer>
         <key>horizontal</key>
         <true/>
         <key>round</key>
@@ -136,7 +136,7 @@
       <key>X: 125</key>
       <dict>
         <key>width</key>
-        <integer>125</integer>
+        <integer>256</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
@@ -158,7 +158,7 @@
       <key>X: 54</key>
       <dict>
         <key>width</key>
-        <integer>54</integer>
+        <integer>111</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
@@ -180,7 +180,7 @@
       <key>X: 207</key>
       <dict>
         <key>width</key>
-        <integer>207</integer>
+        <integer>424</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>

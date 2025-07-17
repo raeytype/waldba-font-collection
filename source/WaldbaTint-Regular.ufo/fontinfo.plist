@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>972</integer>
+  <integer>2034</integer>
   <key>capHeight</key>
-  <integer>586</integer>
+  <integer>1296</integer>
   <key>copyright</key>
   <string>Copyright (c) 2023 by Raʾey Type (https://github.com/raeytype), with Reserved Font Name: &quot;ዋልድባ - ጥንት&quot;, &quot;ዋልድባ - ጥንት Regular&quot;, &quot;Waldba - Tint&quot;, and &quot;Waldba - Tint Regular&quot;.
 
 Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Reserved Font Name: &quot;Ethiopic Tint&quot; and &quot;Ethiopic Tint Regular&quot;. All Rights Reserved.  Released under the SIL Open Font License.</string>
   <key>descender</key>
-  <integer>232</integer>
+  <integer>-682</integer>
   <key>familyName</key>
   <string>ዋልድባ - ጥንት</string>
   <key>guidelines</key>
@@ -24,7 +24,7 @@ Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Res
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>250</integer>
+    <integer>512</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -34,7 +34,7 @@ Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Res
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>250</integer>
+    <integer>512</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -44,17 +44,7 @@ Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Res
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>250</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>m</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>300</integer>
+    <integer>512</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -79,11 +69,11 @@ Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Res
   <array>
   </array>
   <key>openTypeHheaAscender</key>
-  <integer>806</integer>
+  <integer>2034</integer>
   <key>openTypeHheaCaretOffset</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-192</integer>
+  <integer>-682</integer>
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
   <key>openTypeNameDescription</key>
@@ -154,8 +144,6 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <string>ዋልድባ - ጥንት</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
-  <key>openTypeNameSampleText</key>
-  <string>በስመ፡አብ፡ወወልድ፡ወመንፈስ፡ቅዱስ፡፩ዱ፡አምላክ።</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.000</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -179,32 +167,32 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <array>
   </array>
   <key>openTypeOS2StrikeoutPosition</key>
-  <integer>250</integer>
+  <integer>512</integer>
   <key>openTypeOS2StrikeoutSize</key>
-  <integer>50</integer>
+  <integer>102</integer>
   <key>openTypeOS2SubscriptXOffset</key>
   <integer>-0</integer>
   <key>openTypeOS2SubscriptXSize</key>
-  <integer>500</integer>
+  <integer>1434</integer>
   <key>openTypeOS2SubscriptYOffset</key>
-  <integer>-500</integer>
+  <integer>287</integer>
   <key>openTypeOS2SubscriptYSize</key>
-  <integer>500</integer>
+  <integer>1331</integer>
   <key>openTypeOS2SuperscriptXOffset</key>
   <integer>-0</integer>
   <key>openTypeOS2SuperscriptXSize</key>
-  <integer>500</integer>
+  <integer>1434</integer>
   <key>openTypeOS2SuperscriptYOffset</key>
-  <integer>250</integer>
+  <integer>977</integer>
   <key>openTypeOS2SuperscriptYSize</key>
-  <integer>500</integer>
+  <integer>1331</integer>
   <key>openTypeOS2Type</key>
   <array>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>972</integer>
+  <integer>2034</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>232</integer>
+  <integer>-682</integer>
   <key>openTypeOS2TypoLineGap</key>
   <integer>-0</integer>
   <key>openTypeOS2UnicodeRanges</key>
@@ -221,9 +209,9 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>806</integer>
+  <integer>2034</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>192</integer>
+  <integer>682</integer>
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
@@ -232,12 +220,12 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <integer>7</integer>
   <key>postscriptBlueValues</key>
   <array>
-    <integer>-18</integer>
+    <integer>-37</integer>
     <integer>0</integer>
-    <integer>447</integer>
-    <integer>468</integer>
-    <integer>586</integer>
-    <integer>603</integer>
+    <integer>915</integer>
+    <integer>958</integer>
+    <integer>1200</integer>
+    <integer>1235</integer>
   </array>
   <key>postscriptFontName</key>
   <string>WaldbaTint-Regular</string>
@@ -249,23 +237,23 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <false/>
   <key>postscriptOtherBlues</key>
   <array>
-    <integer>-163</integer>
-    <integer>-163</integer>
+    <integer>-334</integer>
+    <integer>-334</integer>
   </array>
   <key>postscriptStemSnapH</key>
   <array>
-    <integer>49</integer>
-    <integer>112</integer>
+    <integer>100</integer>
+    <integer>229</integer>
   </array>
   <key>postscriptStemSnapV</key>
   <array>
-    <integer>130</integer>
-    <integer>52</integer>
+    <integer>266</integer>
+    <integer>106</integer>
   </array>
   <key>postscriptUnderlinePosition</key>
-  <integer>-139</integer>
+  <integer>-205</integer>
   <key>postscriptUnderlineThickness</key>
-  <integer>50</integer>
+  <integer>102</integer>
   <key>postscriptWeightName</key>
   <string>Normal</string>
   <key>styleMapFamilyName</key>
@@ -275,13 +263,13 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <key>styleName</key>
   <string>Regular</string>
   <key>unitsPerEm</key>
-  <integer>1000</integer>
+  <integer>2048</integer>
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
   <integer>0</integer>
   <key>xHeight</key>
-  <integer>447</integer>
+  <integer>915</integer>
   <key>year</key>
   <integer>2008</integer>
 </dict>

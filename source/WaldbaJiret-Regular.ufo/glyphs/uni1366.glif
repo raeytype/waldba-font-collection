@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1366" format="2">
-  <advance width="481"/>
+  <advance width="1087"/>
   <unicode hex="1366"/>
   <outline>
     <contour>
-      <point x="190" y="276" type="line"/>
-      <point x="451" y="296" type="line"/>
-      <point x="451" y="336" type="line"/>
-      <point x="190" y="316" type="line"/>
+      <point x="429.55" y="623.977" type="line"/>
+      <point x="1019.62" y="669.193" type="line"/>
+      <point x="1019.62" y="759.624" type="line"/>
+      <point x="429.55" y="714.409" type="line"/>
     </contour>
     <contour>
-      <point x="200" y="484" type="qcurve"/>
-      <point x="200" y="473"/>
-      <point x="192" y="452"/>
-      <point x="181" y="432"/>
-      <point x="173" y="413"/>
-      <point x="173" y="404" type="qcurve"/>
-      <point x="173" y="392"/>
-      <point x="187" y="381" type="qcurve"/>
-      <point x="58" y="363" type="line"/>
-      <point x="44" y="374"/>
-      <point x="44" y="387" type="qcurve"/>
-      <point x="44" y="396"/>
-      <point x="52" y="414"/>
-      <point x="63" y="434"/>
-      <point x="71" y="455"/>
-      <point x="71" y="466" type="qcurve"/>
-      <point x="71" y="474"/>
-      <point x="66" y="490"/>
-      <point x="58" y="498" type="qcurve"/>
-      <point x="187" y="516" type="line"/>
-      <point x="195" y="508"/>
-      <point x="200" y="492"/>
+      <point x="452.157" y="1094.22" type="qcurve"/>
+      <point x="452.157" y="1069.35"/>
+      <point x="434.071" y="1021.88"/>
+      <point x="409.202" y="976.66"/>
+      <point x="391.116" y="933.705"/>
+      <point x="391.116" y="913.358" type="qcurve"/>
+      <point x="391.116" y="886.229"/>
+      <point x="422.767" y="861.36" type="qcurve"/>
+      <point x="131.126" y="820.666" type="line"/>
+      <point x="99.4746" y="845.534"/>
+      <point x="99.4746" y="874.925" type="qcurve"/>
+      <point x="99.4746" y="895.272"/>
+      <point x="117.561" y="935.966"/>
+      <point x="142.43" y="981.182"/>
+      <point x="160.516" y="1028.66"/>
+      <point x="160.516" y="1053.53" type="qcurve"/>
+      <point x="160.516" y="1071.61"/>
+      <point x="149.212" y="1107.79"/>
+      <point x="131.126" y="1125.87" type="qcurve"/>
+      <point x="422.767" y="1166.57" type="line"/>
+      <point x="440.854" y="1148.48"/>
+      <point x="452.157" y="1112.31"/>
     </contour>
     <contour>
-      <point x="186" y="202" type="qcurve"/>
-      <point x="186" y="191"/>
-      <point x="178" y="170"/>
-      <point x="167" y="150"/>
-      <point x="159" y="131"/>
-      <point x="159" y="122" type="qcurve"/>
-      <point x="159" y="110"/>
-      <point x="173" y="99" type="qcurve"/>
-      <point x="44" y="81" type="line"/>
-      <point x="30" y="92"/>
-      <point x="30" y="104" type="qcurve"/>
-      <point x="30" y="113"/>
-      <point x="38" y="132"/>
-      <point x="48" y="152"/>
-      <point x="56" y="174"/>
-      <point x="56" y="185" type="qcurve"/>
-      <point x="56" y="202"/>
-      <point x="44" y="217" type="qcurve"/>
-      <point x="173" y="234" type="line"/>
-      <point x="186" y="218"/>
+      <point x="420.506" y="456.679" type="qcurve"/>
+      <point x="420.506" y="431.81"/>
+      <point x="402.42" y="384.334"/>
+      <point x="377.551" y="339.118"/>
+      <point x="359.465" y="296.163"/>
+      <point x="359.465" y="275.816" type="qcurve"/>
+      <point x="359.465" y="248.687"/>
+      <point x="391.116" y="223.818" type="qcurve"/>
+      <point x="99.4746" y="183.124" type="line"/>
+      <point x="67.8236" y="207.992"/>
+      <point x="67.8236" y="235.122" type="qcurve"/>
+      <point x="67.8236" y="255.469"/>
+      <point x="85.9099" y="298.424"/>
+      <point x="108.518" y="343.64"/>
+      <point x="126.604" y="393.377"/>
+      <point x="126.604" y="418.246" type="qcurve"/>
+      <point x="126.604" y="456.679"/>
+      <point x="99.4746" y="490.591" type="qcurve"/>
+      <point x="391.116" y="529.024" type="line"/>
+      <point x="420.506" y="492.852"/>
     </contour>
   </outline>
 </glyph>

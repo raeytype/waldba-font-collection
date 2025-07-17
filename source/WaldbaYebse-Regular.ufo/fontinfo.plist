@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>972</integer>
+  <integer>2034</integer>
   <key>capHeight</key>
-  <integer>583</integer>
+  <integer>1296</integer>
   <key>copyright</key>
   <string>Copyright (c) 2023 by Raʾey Type (https://github.com/raeytype), with Reserved Font Name: &quot;ዋልድባ - የብሰ&quot;, &quot;ዋልድባ - የብሰ Regular&quot;, &quot;Waldba - Yebse&quot;, and &quot;Waldba - Yebse Regular&quot;.
 
 Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Reserved Font Name: &quot;Ethiopic Yebse&quot; and &quot;Ethiopic Yebse Regular&quot;. All Rights Reserved.  Released under the SIL Open Font License.</string>
   <key>descender</key>
-  <integer>232</integer>
+  <integer>-682</integer>
   <key>familyName</key>
   <string>ዋልድባ - የብሰ</string>
   <key>guidelines</key>
@@ -24,7 +24,7 @@ Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Res
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>250</integer>
+    <integer>512</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -34,7 +34,7 @@ Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Res
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>250</integer>
+    <integer>512</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -44,7 +44,7 @@ Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Res
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>250</integer>
+    <integer>512</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -54,7 +54,7 @@ Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Res
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>250</integer>
+    <integer>512</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -64,7 +64,7 @@ Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Res
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>250</integer>
+    <integer>512</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -74,7 +74,37 @@ Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Res
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>300</integer>
+    <integer>512</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>512</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>512</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>614</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -99,11 +129,11 @@ Copyright (c) 1998-2008 Senamirmir Project (http://www.senamirmir.org), with Res
   <array>
   </array>
   <key>openTypeHheaAscender</key>
-  <integer>823</integer>
+  <integer>2034</integer>
   <key>openTypeHheaCaretOffset</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-184</integer>
+  <integer>-682</integer>
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
   <key>openTypeNameDescription</key>
@@ -205,32 +235,32 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <array>
   </array>
   <key>openTypeOS2StrikeoutPosition</key>
-  <integer>250</integer>
+  <integer>512</integer>
   <key>openTypeOS2StrikeoutSize</key>
-  <integer>50</integer>
+  <integer>102</integer>
   <key>openTypeOS2SubscriptXOffset</key>
   <integer>-0</integer>
   <key>openTypeOS2SubscriptXSize</key>
-  <integer>500</integer>
+  <integer>1434</integer>
   <key>openTypeOS2SubscriptYOffset</key>
-  <integer>-500</integer>
+  <integer>287</integer>
   <key>openTypeOS2SubscriptYSize</key>
-  <integer>500</integer>
+  <integer>1331</integer>
   <key>openTypeOS2SuperscriptXOffset</key>
   <integer>-0</integer>
   <key>openTypeOS2SuperscriptXSize</key>
-  <integer>500</integer>
+  <integer>1434</integer>
   <key>openTypeOS2SuperscriptYOffset</key>
-  <integer>250</integer>
+  <integer>977</integer>
   <key>openTypeOS2SuperscriptYSize</key>
-  <integer>500</integer>
+  <integer>1331</integer>
   <key>openTypeOS2Type</key>
   <array>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>972</integer>
+  <integer>2034</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>232</integer>
+  <integer>-682</integer>
   <key>openTypeOS2TypoLineGap</key>
   <integer>-0</integer>
   <key>openTypeOS2UnicodeRanges</key>
@@ -247,9 +277,9 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>823</integer>
+  <integer>2034</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>184</integer>
+  <integer>682</integer>
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
@@ -258,12 +288,12 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <integer>7</integer>
   <key>postscriptBlueValues</key>
   <array>
-    <integer>-16</integer>
+    <integer>-33</integer>
     <integer>0</integer>
-    <integer>453</integer>
-    <integer>474</integer>
-    <integer>583</integer>
-    <integer>600</integer>
+    <integer>1007</integer>
+    <integer>1050</integer>
+    <integer>1296</integer>
+    <integer>1331</integer>
   </array>
   <key>postscriptFontName</key>
   <string>WaldbaYebse-Regular</string>
@@ -275,28 +305,28 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <false/>
   <key>postscriptOtherBlues</key>
   <array>
-    <integer>-152</integer>
-    <integer>-152</integer>
+    <integer>-682</integer>
+    <integer>-682</integer>
   </array>
   <key>postscriptStemSnapH</key>
   <array>
-    <integer>50</integer>
-    <integer>82</integer>
-    <integer>86</integer>
-    <integer>125</integer>
-    <integer>150</integer>
+    <integer>102</integer>
+    <integer>168</integer>
+    <integer>176</integer>
+    <integer>256</integer>
+    <integer>307</integer>
   </array>
   <key>postscriptStemSnapV</key>
   <array>
-    <integer>150</integer>
-    <integer>87</integer>
-    <integer>110</integer>
-    <integer>125</integer>
+    <integer>307</integer>
+    <integer>178</integer>
+    <integer>225</integer>
+    <integer>256</integer>
   </array>
   <key>postscriptUnderlinePosition</key>
-  <integer>-139</integer>
+  <integer>-205</integer>
   <key>postscriptUnderlineThickness</key>
-  <integer>50</integer>
+  <integer>102</integer>
   <key>postscriptWeightName</key>
   <string>Normal</string>
   <key>styleMapFamilyName</key>
@@ -306,13 +336,13 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <key>styleName</key>
   <string>Regular</string>
   <key>unitsPerEm</key>
-  <integer>1000</integer>
+  <integer>2048</integer>
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
   <integer>0</integer>
   <key>xHeight</key>
-  <integer>453</integer>
+  <integer>1007</integer>
   <key>year</key>
   <integer>2008</integer>
 </dict>

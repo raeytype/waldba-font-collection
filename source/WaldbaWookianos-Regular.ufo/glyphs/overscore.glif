@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="overscore" format="2">
-  <advance width="600"/>
+  <advance width="1381"/>
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="470" y="542" type="line"/>
-      <point x="130" y="542" type="line"/>
-      <point x="130" y="592" type="line"/>
-      <point x="470" y="592" type="line"/>
+      <point x="1081.92" y="1247.66" type="line"/>
+      <point x="299.254" y="1247.66" type="line"/>
+      <point x="299.254" y="1362.76" type="line"/>
+      <point x="1081.92" y="1362.76" type="line"/>
     </contour>
   </outline>
 </glyph>
