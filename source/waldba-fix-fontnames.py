@@ -8,7 +8,7 @@ from fontTools import ttLib
 
 
 if __name__ == "__main__":
-        font_path = sys.argv[2]
+        font_path = sys.argv[1]
 
         font = ttLib.TTFont(font_path)
 	# Name ID, Platform ID, Platform Encoding ID, Language ID
@@ -30,8 +30,8 @@ if __name__ == "__main__":
         font["name"].removeNames(6, 1, 0, 0)
         namerecord_list = font["name"].names
 
-        # determine font style for this file path from name record nameID 2
-        for record in namerecord_list:
-            print( record.nameID , ": ", record.string )
+        # list updated name record array contents
+        # for record in namerecord_list:
+        #     print( record.nameID , ": ", record.string )
 
-        font.save( sys.argv[3] )
+        font.save( sys.argv[2] )

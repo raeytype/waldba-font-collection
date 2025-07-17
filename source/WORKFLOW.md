@@ -1,12 +1,19 @@
 # Create a COLR font with UVS (CMAP 14 Table)
 
 The `.gyphs` format is color-preserving, unfortunately `fontmake` does not
-yet support (easily) color output to OpenType fonts.  So do this:
+yet support (easily) color output to OpenType fonts.  Unfortunately, the Glyphs
+format appears to drop some info. So do this:
 
 
-1. Export font form FontLab Studio to "OpenType COLR"
-2. Execute in Python 3: `waldba-fix-fontnames.py`
-3. Execute in Python 3: `add-cmap-from-file.py`
+1. Open the .glyphs file in FontLab Studio
+2. Under File > Font Info > Names
+   a) Fix the "Full name", change "Reg" to "Regular"
+   b) Fix the "Postscript name", the string before "-Regular" will be missing.
+3. Under File > Font Info > Creator
+   a) Add "RYT" to the "Vendor" field 
+4. Export font form FontLab Studio to "OpenType COLR"
+5. Execute in Python 3: `waldba-fix-fontnames.py`
+6. Execute in Python 3: `add-cmap-from-file.py`
 
 For example:
 ```
