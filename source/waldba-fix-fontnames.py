@@ -27,7 +27,12 @@ if __name__ == "__main__":
         font["name"].removeNames(2, 1, 0, 0)
         font["name"].removeNames(4, 1, 0, 0)
         font["name"].removeNames(5, 1, 0, 0)
-        font["name"].removeNames(6, 1, 0, 0)
+	#
+	# Keep both the MacRoman and PostScript name as per: https://learn.microsoft.com/en-us/typography/opentype/spec/recom#name
+	#
+	# This should be OK since the name is ASCII anyway.
+	#
+        # font["name"].removeNames(6, 1, 0, 0)
         namerecord_list = font["name"].names
 
         # list updated name record array contents
